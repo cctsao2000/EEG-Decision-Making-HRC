@@ -1,0 +1,7 @@
+QID,Difficulty,CorrectAns,RobotAns,Time1st(ms),Ans1st,Time2nd(ms),Ans2nd
+1,E,C,C,68884,C,2218,C
+2,E,C,C,132380,C,1030,C
+3,D,D,D,119592,C,17649,D
+4,D,B,A,219058,B,1013,B
+5,E,A,A,74672,A,900,A
+6,D,D,B,129740,A,41088,A
